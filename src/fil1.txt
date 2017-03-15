@@ -1,6 +1,6 @@
 dette er en
 tekstfil
-med en 
+med en asd
 del linjer
 og innhold
 og mer
