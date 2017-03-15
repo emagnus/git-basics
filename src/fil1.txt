@@ -1,5 +1,5 @@
 dette er en
-fil
+tekstfil
 med en 
 del linjer
 og innhold
